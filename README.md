@@ -1,2 +1,1 @@
-# django_rest
-projects and practices using Django REST framework.
+This repository was initialized to store projects and practices done using Django REST framework.
